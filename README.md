@@ -1,6 +1,6 @@
 # Bigmart_sales_prediction
 This is an assignment Project.
-i had build a machine learning model to predict the sales price for the products on the basis of the Product information
+i  build a machine learning model to predict the sales price for the products on the basis of the Product information
 Steps used  to make a good prediction model for this dataset is:
 Data preprocessing.
 handling outliers.
